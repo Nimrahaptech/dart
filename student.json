@@ -1,0 +1,42 @@
+[
+    {
+    "name": "John Doe",
+   "age": 20,
+   "email": "johndoe@example.com"
+    },
+    {
+    "name": "Jane Smith",
+   "age": 22,
+   "email": "janesmith@example.com"
+    },
+    {
+    "name": "Alice Johnson",
+   "age": 19,
+   "email": "alicejohnson@example.com"
+    },
+    {
+    "name": "Bob Brown",
+   "age": 21,
+   "email": "bobbrown@example.com"
+    },
+    {
+    "name": "Charlie Davis",
+   "age": 23,
+   "email": "charliedavis@example.com"
+    },
+    {
+    "name": "Emily White",
+   "age": 20,
+   "email": "emilywhite@example.com"
+    },
+    {
+    "name": "Frank Harris",
+   "age": 24,
+   "email": "frankharris@example.com"
+    },
+    {
+    "name": "Grace Lee",
+   "age": 22,
+   "email": "gracelee@example.com"
+    }
+]
